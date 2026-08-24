@@ -1,0 +1,3 @@
+Won: False
+Answer: typcial
+Guessed Letters: hadmystrln
